@@ -1,0 +1,22 @@
+  h1 {
+    font-size: 30px;
+    color: green;
+  }
+  
+  b {
+    color: red;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: rgb(0, 0, 114);
+  }
+
+  ul{
+    color: rgb(0, 0, 114);
+  }
+
+  button {
+    background-color: rgb(255, 0, 0);
+    font-weight: 800;
+  }
